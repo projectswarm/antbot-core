@@ -1,1 +1,1 @@
-# antbot-core
+# AntBot - core module
